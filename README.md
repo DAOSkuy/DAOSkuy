@@ -8,3 +8,6 @@ web3 dev | EVM tooling, bot farming infrastructure, RPC reliability
 
 ## Currently
 - deep-diving L2 fee markets
+
+## Pinned projects
+- see pinned repos for actual tools
